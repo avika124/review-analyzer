@@ -13,7 +13,8 @@ A Streamlit web application that analyzes customer reviews and provides structur
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](<img width="1470" height="801" alt="dashboard" src="https://github.com/user-attachments/assets/7fe2cd23-2d9d-4e84-b1e6-25ec9177e7b1" />
+)
 
 *The dashboard features three main tabs:*
 - **Overview Tab**: Displays sentiment distribution with interactive donut charts and timeline visualizations
