@@ -20,8 +20,6 @@ A Streamlit web application that analyzes customer reviews and provides structur
 - **Aspect Analysis Tab**: Shows aspect frequency bar charts and detailed breakdowns with representative quotes
 - **Raw Data Tab**: Provides a searchable table of all processed reviews with download functionality
 
-> **Note**: To add your own screenshot, run the app with `streamlit run app.py`, take a screenshot of the dashboard, save it as `dashboard_screenshot.png` in the project root, and it will automatically appear above.
-
 ## Tech Stack
 
 - **Python 3.11+**
