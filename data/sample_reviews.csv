@@ -1,0 +1,22 @@
+review_text,rating,date,source
+"The food was amazing but service was slow",4,2024-01-15,google
+"Terrible experience. Cold food and rude staff",1,2024-01-16,google
+"Great ambiance and friendly waiters. The pasta was delicious!",5,2024-01-17,yelp
+"Overpriced for what you get. Portions are small",2,2024-01-18,google
+"Best pizza in town! Worth every penny",5,2024-01-19,yelp
+"Clean restaurant but wait time was too long",3,2024-01-20,google
+"Excellent location, easy parking. Food quality is top notch",5,2024-01-21,google
+"Service was okay but the food was cold when it arrived",2,2024-01-22,yelp
+"Amazing food quality! The chef really knows what they're doing",5,2024-01-23,google
+"Not worth the price. Food was mediocre and service was terrible",1,2024-01-24,google
+"Great value for money. Large portions and tasty food",4,2024-01-25,yelp
+"The ambiance is perfect for a date night. Food was good too",4,2024-01-26,google
+"Rude staff ruined the experience. Food was decent though",2,2024-01-27,yelp
+"Clean and well-maintained restaurant. Service was prompt",4,2024-01-28,google
+"Wait time was excessive. Food quality didn't make up for it",2,2024-01-29,google
+"Outstanding service! The waiters were attentive and friendly",5,2024-01-30,yelp
+"Food was good but the place was too noisy",3,2024-02-01,google
+"Great location near downtown. Food and service both excellent",5,2024-02-02,google
+"Portion size was disappointing for the price we paid",2,2024-02-03,yelp
+"Amazing food quality and reasonable prices. Highly recommend!",5,2024-02-04,google
+
